@@ -1,9 +1,9 @@
 [
   {
     "key": "upgrade-masterstudents1",
-    "name": "Kinderzimmer",
-    "description": "A shared room for all your Master students. Used to be a server room.",
-    "effect": "Master Students produce +2 data per second.",
+    "name": "金德齐默",
+    "description": "为所有硕士生共同的房间。 曾经是一个服务器机房。",
+    "effect": "硕士生每秒产生+2个数据。",
     "icon": "fa-group",
     "cost": 4e2,
     "targets": [{ "key": "workers-masterstudents", "property": "rate" }],

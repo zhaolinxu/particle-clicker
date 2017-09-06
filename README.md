@@ -1,7 +1,10 @@
-# Particle Clicker
+# 粒子点击器
 
-An addictive incremental game that teaches players the history of high energy particle physics.
+一个令人上瘾的增量游戏，教给玩家高能粒子物理学的历史。
 
-Developed during the 2014 CERN Webfest over a weekend.
+在2014年CERN Webfest周末开发。
 
-Visit [http://cern.ch/particle-clicker](http://cern.ch/particle-clicker) to play the game.
+访问 [http://cern.ch/particle-clicker](http://cern.ch/particle-clicker) 玩英文版。
+
+# 汉化版
+[粒子点击器](https://zhaolinxu.github.io/particle-clicker/index.html)

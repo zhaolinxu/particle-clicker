@@ -22,7 +22,7 @@ var GameObjects = (function() {
     GameObject.apply(this, [{
                              key : 'lab',
                              state : {
-                               name : 'Give your lab an awesome name!',
+                               name : '在这里给你的实验室设置一个棒棒的名字！',
                                detector : 1,
                                factor : 5,
                                data : 0,

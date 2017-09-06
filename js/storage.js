@@ -19,8 +19,8 @@ var ObjectStorage = (function() {
       clear : function() { _s.clear(); }
     };
   } catch (e) {
-    alert('There is no local storage for you.' +
-          ' If you refresh the page, all progress will be lost');
+    alert('你还没有存储游戏。' +
+          ' 如果你刷新页面，所有游戏进度 将会丢失！');
     return {
       save : function(key, item) {},
       load : function(key) { return null; },

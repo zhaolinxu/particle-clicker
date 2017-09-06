@@ -1,8 +1,8 @@
 [
   {
     "key": "workers-masterstudents",
-    "name": "Master Students",
-    "description": "Cheap and enthusiastic workforce, they can save you a lot of work.",
+    "name": "硕士生",
+    "description": "廉价又热情的员工，他们可以为您节省大量的工作时间。",
     "cost_increase": 1.5,
     "state": {
       "cost": 4e1,
@@ -11,8 +11,8 @@
   },
   {
     "key": "workers-phdstudents",
-    "name": "PhD Students",
-    "description": "They decided to do a PhD. Now they are working hard.",
+    "name": "博士生",
+    "description": "他们决定做一个博士学位。 现在他们正在努力工作。",
     "cost_increase": 1.45,
     "state": {
       "cost": 6e2,
@@ -21,7 +21,7 @@
   },
   {
     "key": "workers-postdocs",
-    "name": "Postdocs",
+    "name": "博士后",
     "description": "These brilliant minds are here only to serve your needs.",
     "cost_increase": 1.4,
     "state": {
@@ -31,7 +31,7 @@
   },
   {
     "key": "workers-fellows",
-    "name": "Research Fellows",
+    "name": "研究员",
     "description": "You pay them a lot. They work a lot.",
     "cost_increase": 1.35,
     "state": {
@@ -41,7 +41,7 @@
   },
   {
     "key": "workers-permanent",
-    "name": "Permanent Staff",
+    "name": "在编人员",
     "description": "Somebody who gets a permanent position in physics has to be good.",
     "cost_increase": 1.3,
     "state": {
@@ -51,7 +51,7 @@
   },
   {
     "key": "workers-profs",
-    "name": "Tenured Professors",
+    "name": "终身教授",
     "description": "They bring their own group along and are able to get a lot of work done.",
     "cost_increase": 1.25,
     "state": {
@@ -61,8 +61,8 @@
   },
   {
     "key": "workers-nobel",
-    "name": "Nobel Laureates",
-    "description": "They received their prize for a reason.",
+    "name": "诺贝尔奖得主",
+    "description": "他们得到他们的奖金是有原因的。",
     "cost_increase": 1.2,
     "state": {
       "cost": 3e7,
@@ -71,8 +71,8 @@
   },
   {
     "key": "workers-summies",
-    "name": "Summer Students",
-    "description": "Their best ideas come between two parties.",
+    "name": "暑期学生",
+    "description": "他们最好的想法来自两党之间。",
     "cost_increase": 1.15,
     "state": {
       "cost": 1.25e8,
